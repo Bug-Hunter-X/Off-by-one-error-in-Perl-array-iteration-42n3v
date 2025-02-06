@@ -1,0 +1,1 @@
+This repository contains a Perl example demonstrating an off-by-one error during array iteration. The `bug.pl` file shows the incorrect code, while `bugSolution.pl` provides the corrected version.  The error arises from incorrect loop bounds, leading to an attempt to access an element beyond the array's valid index. 
